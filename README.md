@@ -1,4 +1,4 @@
-# 100 Days of Python Bootcamp
+# 100 Days of Python
 
 A growing collection of Python projects and exercises completed as part of a 100-day Python coding bootcamp.
 The curriculum progresses from fundamentals to advanced topics, with hands-on projects in:
@@ -25,6 +25,9 @@ The bootcamp also introduces popular Python libraries and frameworks, including:
 - **Day 9**: Blind auction, dictionaries, grades
 - **Day 10**: Leap year, calculator, docstrings
 - **Day 11**: Blackjack game
+- **Day 12**: Number guessing game, prime number checker
+- **Day 13**: Debugging
+- **Day 14**: Higher or lower classic game
 
 ## How to Run
 
