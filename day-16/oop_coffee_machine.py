@@ -1,9 +1,3 @@
-#1. Print report
-#2. Check if resources are sufficient
-#3. Process coins
-#4. Check if transactions are successful
-#5. Make coffee
-
 class Coffee:
     def __init__(self, water, coffee, milk = 0, price = 0.00, profit = 0.00):
         self.water = water
