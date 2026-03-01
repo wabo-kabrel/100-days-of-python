@@ -28,7 +28,8 @@ The bootcamp also introduces popular Python libraries and frameworks, including:
 - **Day 12**: Number guessing game, prime number checker
 - **Day 13**: Debugging
 - **Day 14**: Higher or lower classic game
-- **Day 15**: Coffee Machine
+- **Day 15**: Coffee Machine using procedural programming
+- **Day 16**: Coffee Machine using OOP
 
 ## How to Run
 
