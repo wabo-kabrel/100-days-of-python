@@ -30,6 +30,7 @@ The bootcamp also introduces popular Python libraries and frameworks, including:
 - **Day 14**: Higher or lower classic game
 - **Day 15**: Coffee Machine using procedural programming
 - **Day 16**: Coffee Machine using OOP
+- **Day 17**: Quiz Brain - OOP
 
 ## How to Run
 
