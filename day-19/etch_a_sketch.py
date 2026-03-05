@@ -1,0 +1,31 @@
+from turtle import Turtle, Screen
+
+t = Turtle()
+screen = Screen()
+
+def move_forward():
+    t.forward(10)       # t.forward(distance)
+
+def move_backward():
+    t.backward(10)      # t.backward(distance)
+
+def turn_right():
+    t.right(10)         # t.right(angle) 
+
+def turn_left():
+    t.left(10)          # t.left(angle)
+
+def clear_drawing():
+    t.clear()
+    t.penup()
+    t.home()
+    t.pendown()
+
+screen.listen()
+screen.onkey(move_forward, "w")
+screen.onkey(move_backward, "s")
+screen.onkey(turn_right, "d")
+screen.onkey(turn_left, "a")
+screen.onkey(clear_drawing, "c")
+
+screen.exitonclick()
