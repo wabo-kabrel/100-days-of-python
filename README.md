@@ -32,6 +32,7 @@ The bootcamp also introduces popular Python libraries and frameworks, including:
 - **Day 16**: Coffee Machine using OOP
 - **Day 17**: Quiz Brain - OOP
 - **Day 18**: Spirograph, Hirst Painting
+- **Day 19**: Etch A Sketch, Turtle Race
 
 ## How to Run
 
