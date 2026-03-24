@@ -33,6 +33,7 @@ The bootcamp also introduces popular Python libraries and frameworks, including:
 - **Day 17**: Quiz Brain - OOP
 - **Day 18**: Spirograph, Hirst Painting
 - **Day 19**: Etch A Sketch, Turtle Race
+- **Day 20**: Snake Game - Part 1
 
 ## How to Run
 
